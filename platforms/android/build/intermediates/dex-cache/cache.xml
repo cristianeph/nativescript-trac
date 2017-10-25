@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-26.0.0-alpha1_a6cf84735e68d6588e696f53897031c711a8d681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_b43bbb47a5083b3a9e593e1baa8e743481a78342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_11c7f536423f6b2c417e6f1f127a2abbecbe463e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/sdks/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-26.0.0-alpha1_848b3866e0586a341c56efc81197f1cd0f673a59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-26.0.0-alpha1_30015cd519d2128eae16bf77db3339f2cdb18013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/tracking/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/tracking-runtime-unspecified_3a3cdcc7cdd1577f2d025ca8991e2170b050cb4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-26.0.0-alpha1_b0a9fd2b6a7263d9a38c6ccebecd51fc40cbcbda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_d5d56fd4055044d1b1fa22466f007adf7a93a27d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-26.0.0-alpha1_69809f915183811abacdcfb77a7a34c51b488c41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-26.0.0-alpha1_44714e2ba6a4604806fb438e54f80275012b0818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-26.0.0-alpha1_4e2e66dab1ba831b1c63c705e9647fe03641b6ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-26.0.0-alpha1_e1ece0b03f95628a0c276cced80ecd98f7da0bf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-26.0.0-alpha1_a4d04f4ca2fbcbce826a3a3bb579d447b59879e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-26.0.0-alpha1_634962acfa0e794c7748c72a2f027934d5d76f3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/tracking/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_4333b2847a886bf8030caf3511c7b50bcb0982a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/home/cperalta/Documentos/workspace-tns/tracking/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_ebe19000e4e7f160b03883b5a8a72628cf407142.jar" />
+    </item>
+
+</items>

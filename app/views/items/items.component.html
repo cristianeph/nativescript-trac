@@ -1,0 +1,21 @@
+<ActionBar title="Lista" class="action-bar"></ActionBar>
+<ListView [items]="items" class="list-group">
+    <ng-template let-item="item" let-i="index">
+        <GridLayout columns="*, *">
+        <!--<GridLayout rows="*, *" columns="120, *" [nsRouterLink]="['/item', item.id]" >-->
+            <WrapLayout [col]="getIndexColumn(i)" [row]="getIndexRow(i)" orientation="horizontal">
+                <Image src="https://pbs.twimg.com/profile_images/839721704163155970/LI_TRk1z_400x400.jpg"
+                       stretch="aspectFill" width="100" height="100"></Image>
+                <!--<GridLayout verticalAligment="bottom">-->
+                    <StackLayout orientation="vertical">
+                        <Label [text]="item.name"></Label>
+                        <Label [text]="item.role"></Label>
+                        <Label [text]="'fila => ' + getIndexRow(i)"></Label>
+                        <Label [text]="'columna => ' + getIndexColumn(i)"></Label>
+                    </StackLayout>
+                <!--</GridLayout>-->
+            </WrapLayout>
+        <!--</GridLayout>-->
+        </GridLayout>
+    </ng-template>
+</ListView>
